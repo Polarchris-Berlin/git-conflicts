@@ -97,8 +97,7 @@ To resolve the conflicts, keep the changes from the `styling` branch that introd
 
 ❗️ Go to the `main` branch locally and pull any changes from the remote before starting.
 
-Switch to the `styling` branch locally and rebase it to `main`.
-
+Switch to the `styling` branch locally and rebase it to `main`.git p
 Git now shows:
 
 ```
